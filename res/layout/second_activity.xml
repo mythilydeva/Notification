@@ -10,3 +10,4 @@
       android:layout_height="400dp"
       android:text="Hi, Your Detailed notification view goes here...." />
 </LinearLayout>
+

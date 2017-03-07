@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
 	   private void addNotification() {
 	      NotificationCompat.Builder builder =
 	         new NotificationCompat.Builder(this)
-	         .setSmallIcon(R.drawable.abc)
+	         //.setSmallIcon(R.drawable.abc)
 	         .setContentTitle("Notifications Example")
 	         .setContentText("This is a test notification");
 
