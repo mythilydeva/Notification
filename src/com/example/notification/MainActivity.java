@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
 				Notification notify = new Notification.Builder(
 						MainActivity.this).setTicker("TicketerTitle")
 						.setContentTitle("Content Title")
-						.setContentText(" hello Everyone it's notification prgrm??")
+						.setContentText(" mythily hai hello how are you?")
 						.setSmallIcon(R.drawable.ic_launcher)
 						.addAction(R.drawable.ic_launcher, "Action 1", pIntent)
 						.setContentIntent(pIntent).getNotification();
